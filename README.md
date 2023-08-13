@@ -1,0 +1,2 @@
+# BruteForceDicti
+Sampel Permutation
